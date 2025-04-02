@@ -7,8 +7,6 @@
 The Environmental Monitoring System is a web-based application designed to track and display real-time environmental data, including temperature, humidity, and air quality. This project utilizes modern web technologies to provide an intuitive and interactive user experience, helping users stay informed about their surroundings.
 
 
-VIEW THE OUTPUT:
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github)](http://localhost:5174/)
 
 
 
@@ -83,9 +81,6 @@ npm install
 
 npm run dev
 
-4️⃣ Open in Browser
-
-Visit http://localhost:5174/ to see the app in action.
 
 🐝 API Integration
 
