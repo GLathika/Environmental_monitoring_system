@@ -8,7 +8,7 @@ The Environmental Monitoring System is a web-based application designed to track
 
 👤 Live Demo
 
-<p align="center">
+<p>
   <a href=" https://glathika.github.io/Environmental_monitoring_system/" target="_blank" style="
       background: linear-gradient(145deg, #007bff, #0056b3);
       color: white;
