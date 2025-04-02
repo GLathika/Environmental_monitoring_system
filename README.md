@@ -8,7 +8,7 @@ The Environmental Monitoring System is a web-based application designed to track
 
 
 VIEW THE OUTPUT:
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github)]( https://glathika.github.io/Environmental_monitoring_system/)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github)](http://localhost:5174/)
 
 
 
