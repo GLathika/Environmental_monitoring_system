@@ -6,6 +6,28 @@ Environmental Monitoring System 🌿🌎
 
 The Environmental Monitoring System is a web-based application designed to track and display real-time environmental data, including temperature, humidity, and air quality. This project utilizes modern web technologies to provide an intuitive and interactive user experience, helping users stay informed about their surroundings.
 
+👤 Live Demo
+
+<p align="center">
+  <a href=" https://glathika.github.io/Environmental_monitoring_system/" target="_blank" style="
+      background: linear-gradient(145deg, #007bff, #0056b3);
+      color: white;
+      padding: 12px 25px;
+      font-size: 18px;
+      font-weight: bold;
+      border-radius: 8px;
+      text-decoration: none;
+      box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+      display: inline-block;
+      transition: all 0.3s ease-in-out;
+  " onmouseover="this.style.transform='scale(1.05)';" 
+     onmouseout="this.style.transform='scale(1)';">
+    🚀 Live Demo
+  </a>
+</p>
+
+
+
 🚀 Features
 
 🌡️ Real-time Monitoring: Displays up-to-date environmental data.
@@ -41,9 +63,6 @@ Database: Firebase (or any other database being used)
 
 Version Control: Git & GitHub
 
-👤 Live Demo
-
-Click the button below to view the live version of the project:
 
 
 
