@@ -27,6 +27,7 @@ The Environmental Monitoring System is a web-based application designed to track
 👥 Collaborative Development: Supports multiple contributors.
 
 🖼️ Screenshots
+![image](https://github.com/user-attachments/assets/f0f063a7-0efb-48bd-b925-d97c64ea796b)
 
 
 
@@ -62,17 +63,7 @@ project/
 ├── tailwind.config.js
 └── vite.config.ts
 
-👥 Contributors
 
-G. Lathika (Project Owner)
-
-S. Jasmine
-
-S. Sadia
-
-S. Fathima
-
-G. Srija
 
 🔥 Getting Started
 
