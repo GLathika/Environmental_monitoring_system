@@ -1,5 +1,5 @@
-Environmental Monitoring System 🌿🌎
 
+🌿🌎 Environmental Monitoring System
 
 
 🌟 Project Overview
